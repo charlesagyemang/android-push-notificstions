@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594011882783",
+    "firebase_url": "https://doughmansapp.firebaseio.com",
+    "project_id": "doughmansapp",
+    "storage_bucket": "doughmansapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594011882783:android:b97bed22c9bc08be",
+        "android_client_info": {
+          "package_name": "finney.charles.com.pusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594011882783-1vp6ejm8dnffkcjv5466qjhuo3j08ot9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "finney.charles.com.pusher",
+            "certificate_hash": "6f690bed0f60c9be815a492ccc5bdf1a48e83cb9"
+          }
+        },
+        {
+          "client_id": "594011882783-gmhq33jjqsdnd4t5hp5ec4g02pfubn5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uCHI-CXfyBKzniVNFz9mjH8OyupOXBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594011882783-gmhq33jjqsdnd4t5hp5ec4g02pfubn5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
