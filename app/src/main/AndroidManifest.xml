@@ -34,6 +34,9 @@
             </intent-filter>
         </service>
 
+        <service android:name=".BackgroundServices.BackgroundService" />
+        <receiver android:name=".BackgroundServices.AlarmReceiver"></receiver>
+
     </application>
 
 </manifest>

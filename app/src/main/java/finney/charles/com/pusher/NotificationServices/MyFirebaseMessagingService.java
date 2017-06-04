@@ -13,9 +13,6 @@ import com.google.firebase.messaging.RemoteMessage;
 import finney.charles.com.pusher.MainActivity;
 import finney.charles.com.pusher.R;
 
-/**
- * Created by pianoafrik on 6/3/17.
- */
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
